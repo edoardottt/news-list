@@ -3,19 +3,19 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
 
 **1. Financial Times (UK)**
     
-        - Website: [Click Here!](https://www.ft.com/)
+   - Website: https://www.ft.com/
     
-        - Newsletter: https://www.ft.com/newsletters
+   - Newsletter: https://www.ft.com/newsletters
         
-        - Twitter: https://twitter.com/ft
+   - Twitter: https://twitter.com/ft
     
 **2. The New York Times**
     
-        - Website: https://www.nytimes.com/
+   - Website: https://www.nytimes.com/
     
-        - Newsletter: https://www.nytimes.com/newsletters
+   - Newsletter: https://www.nytimes.com/newsletters
         
-        - Twitter: https://twitter.com/nytimes
+   - Twitter: https://twitter.com/nytimes
     
 **3. Washington Post**
     
