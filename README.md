@@ -233,7 +233,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**30. PitchBook News
+**30. PitchBook News**
     
         - Website: 
     
@@ -241,7 +241,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**31. MergerMarket
+**31. MergerMarket**
     
         - Website: 
     
@@ -249,7 +249,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**32. News List di Mario Sechi
+**32. News List di Mario Sechi**
     
         - Website: 
     
@@ -257,7 +257,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**33. Formiche
+**33. Formiche**
     
         - Website: 
     
@@ -265,7 +265,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**34. Bangkok Post (T)
+**34. Bangkok Post (T)**
     
         - Website: 
     
@@ -273,7 +273,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**35. The Asset (HK)
+**35. The Asset (HK)**
     
         - Website: 
     
@@ -281,7 +281,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**36. HBR Review
+**36. HBR Review**
     
         - Website: 
     
@@ -289,7 +289,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**37. ANSA
+**37. ANSA**
     
         - Website: 
     
@@ -297,7 +297,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**38. McKinsey Quarterly
+**38. McKinsey Quarterly**
     
         - Website: 
     
@@ -305,7 +305,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**39. MacroBusiness (Australia)
+**39. MacroBusiness (Australia)**
     
         - Website: 
     
@@ -313,7 +313,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**40. CB Insights
+**40. CB Insights**
     
         - Website: 
     
@@ -321,7 +321,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**41. TrendWatching
+**41. TrendWatching**
     
         - Website: 
     
@@ -329,7 +329,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**42. Axios
+**42. Axios**
     
         - Website: 
     
@@ -337,7 +337,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**43. Project Syndicate
+**43. Project Syndicate**
     
         - Website: 
     
@@ -345,7 +345,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**44. FinanceAsia Daily News
+**44. FinanceAsia Daily News**
     
         - Website: 
     
@@ -353,7 +353,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**45. Brookings
+**45. Brookings**
     
         - Website: 
     
@@ -361,7 +361,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**46. Linkiesta
+**46. Linkiesta**
     
         - Website: 
     
@@ -369,7 +369,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**47. ISPI
+**47. ISPI**
     
         - Website: 
     
@@ -377,7 +377,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**48. ITIF
+**48. ITIF**
     
         - Website: 
     
@@ -385,7 +385,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**49. Limes
+**49. Limes**
     
         - Website: 
     
@@ -393,7 +393,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**50. Fung Business Intelligence
+**50. Fung Business Intelligence**
     
         - Website: 
     
@@ -401,7 +401,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**51. Economic Policy Institute
+**51. Economic Policy Institute**
     
         - Website: 
     
@@ -409,7 +409,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**52. STAT Morning Rounds
+**52. STAT Morning Rounds**
     
         - Website: 
     
@@ -417,7 +417,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**53. Asia Society
+**53. Asia Society**
     
         - Website: 
     
@@ -425,7 +425,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**54. HBS Bulletin
+**54. HBS Bulletin**
     
         - Website: 
     
@@ -433,7 +433,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**55. Ozy Presidential Brief
+**55. Ozy Presidential Brief**
     
         - Website: 
     
@@ -441,7 +441,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**56. Forbes
+**56. Forbes**
     
         - Website: 
     
@@ -449,7 +449,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**57. The National Interest
+**57. The National Interest**
     
         - Website: 
     
@@ -457,7 +457,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**58. Istituto Affari Internazionali
+**58. Istituto Affari Internazionali**
     
         - Website: 
     
@@ -465,7 +465,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**59. Private Equity International 
+**59. Private Equity International**
     
         - Website: 
     
@@ -473,7 +473,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**60. Coconuts
+**60. Coconuts**
     
         - Website: 
     
@@ -481,7 +481,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**61. Politico
+**61. Politico**
     
         - Website: 
     
@@ -489,7 +489,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**62. China Money Network 
+**62. China Money Network**
     
         - Website: 
     
@@ -497,7 +497,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**63. The Hill
+**63. The Hill**
     
         - Website: 
     
@@ -505,7 +505,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**64. Atlantic Council
+**64. Atlantic Council**
     
         - Website: 
     
@@ -513,7 +513,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**65. LobeLog
+**65. LobeLog**
     
         - Website: 
     
@@ -521,7 +521,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**66. The Belfer Center for Science and Int. Affairs
+**66. The Belfer Center for Science and Int. Affairs**
     
         - Website: 
     
@@ -529,7 +529,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**67. Eurasia Review Newsletter 
+**67. Eurasia Review Newsletter**
     
         - Website: 
     
@@ -537,7 +537,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**68. VentureSource
+**68. VentureSource**
     
         - Website: 
     
@@ -545,7 +545,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**69. IBT Newsletter 
+**69. IBT Newsletter**
     
         - Website: 
     
@@ -553,7 +553,7 @@ My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Polit
         
         - Twitter: 
     
-**70. AsianInvestor
+**70. AsianInvestor**
     
         - Website: 
     
