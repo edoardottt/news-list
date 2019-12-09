@@ -1,7 +1,7 @@
 # geo-political-news
 My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Politics News.🌍
 
-**1. Financial Times (UK)**
+**1. Financial Times**
 
 Object | Link
 ------------ | -------------
@@ -18,20 +18,20 @@ Newsletter | https://www.nytimes.com/newsletters
 Twitter | https://twitter.com/nytimess
     
 **3. Washington Post**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+
+Object | Link
+------------ | -------------
+Website | https://www.washingtonpost.com
+Newsletter | https://www.washingtonpost.com/newsletter
+Twitter | https://twitter.com/washingtonpost
     
 **4. The Boston Globe**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.bostonglobe.com/
+Newsletter | https://www3.bostonglobe.com/newsletters
+Twitter | https://twitter.com/bostonglobe
     
 **5. The New Yorker**
     
