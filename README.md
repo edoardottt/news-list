@@ -43,11 +43,11 @@ Twitter | https://twitter.com/newyorker
     
 **6. Bloomberg**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.bloomberg.com/
+Newsletter | https://www.bloomberg.com/account/newsletters
+Twitter | https://twitter.com/business
     
 **7. Thomson Reuters Breaking News**
     
