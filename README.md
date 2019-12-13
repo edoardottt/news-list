@@ -35,11 +35,11 @@ Twitter | https://twitter.com/bostonglobe
     
 **5. The New Yorker**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.newyorker.com/
+Newsletter | https://www.newyorker.com/newsletters
+Twitter | https://twitter.com/newyorker
     
 **6. Bloomberg**
     
