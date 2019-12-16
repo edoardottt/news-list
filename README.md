@@ -49,13 +49,13 @@ Website | https://www.bloomberg.com/
 Newsletter | https://www.bloomberg.com/account/newsletters
 Twitter | https://twitter.com/business
     
-**7. Thomson Reuters Breaking News**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+**7. Reuters Breaking News**
+     
+Object | Link
+------------ | -------------
+Website | https://reuters.com
+Newsletter | http://newslink.reuters.com/join/subscribe
+Twitter | https://twitter.com/reuters
     
 **8. Defense News**
     
