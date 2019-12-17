@@ -58,12 +58,12 @@ Newsletter | http://newslink.reuters.com/join/subscribe
 Twitter | https://twitter.com/reuters
     
 **8. Defense News**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.defensenews.com/
+Newsletter | https://link.defensenews.com/join/5ba/sign-up
+Twitter | https://twitter.com/defense_news
     
 **9. Foreign Policy**
     
