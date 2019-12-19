@@ -66,100 +66,100 @@ Newsletter | https://link.defensenews.com/join/5ba/sign-up
 Twitter | https://twitter.com/defense_news
     
 **9. Foreign Policy**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://foreignpolicy.com/
+Newsletter | https://foreignpolicy.com/newsletters/
+Twitter | https://twitter.com/foreignpolicy
     
 **10. Scientific American**
+     
+Object | Link
+------------ | -------------
+Website | https://www.scientificamerican.com/
+Newsletter | https://www.scientificamerican.com/page/newsletter-sign-up/
+Twitter | https://twitter.com/sciam
     
-        - Website: 
+**11. Caixin (China)**
+     
+Object | Link
+------------ | -------------
+Website | https://www.caixinglobal.com/
+Newsletter | https://www.caixinglobal.com/newsletter/
+Twitter | https://twitter.com/caixin
     
-        - Newsletter:
-        
-        - Twitter: 
-    
-**11. Caixin (Cina)**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
-**12. Nikkei (Giappone)**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+**12. Nikkei (Japan)**
+     
+Object | Link
+------------ | -------------
+Website | https://asia.nikkei.com/
+Newsletter | https://regist.asia.nikkei.com/member/register/newsletter
+Twitter | https://twitter.com/nar
     
 **13. The Australian (Australia)**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.theaustralian.com
+Newsletter | 
+Twitter | https://twitter.com/australian
     
 **14. The Straits Times (Singapore)**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.straitstimes.com/global
+Newsletter | https://www.straitstimes.com/newsletter-signup
+Twitter | https://twitter.com/stcom
     
 **15. South China Morning Post (HK)**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.scmp.com/
+Newsletter | https://www.scmp.com/newsletters
+Twitter | https://twitter.com/scmphongkong
     
 **16. MIT Technology Review**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.technologyreview.com/
+Newsletter | https://forms.technologyreview.com/newsletters/
+Twitter | https://twitter.com/techreview
     
 **17. The Diplomat**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://thediplomat.com/
+Newsletter | 
+Twitter | https://twitter.com/diplomat_apac
     
 **18. Foreign Affairs**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.foreignaffairs.com/
+Newsletter | https://www.foreignaffairs.com/newsletter
+Twitter | https://twitter.com/foreignaffairs
     
 **19. The Economist**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.economist.com/
+Newsletter | https://www.economist.com/newsletters/21705291-letters-editor
+Twitter | https://twitter.com/theeconomist
     
 **20. Wired**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+     
+Object | Link
+------------ | -------------
+Website | https://www.wired.com/
+Newsletter | https://www.wired.com/newsletter
+Twitter | https://twitter.com/wired
     
 **21. Fast**
     
