@@ -163,11 +163,11 @@ Twitter | https://twitter.com/wired
     
 **21. Fast**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.fastcompany.com/news
+Newsletter | https://www.fastcompany.com/newsletters
+Twitter | https://twitter.com/fastcompany
     
 **22. Stratfor**
     
