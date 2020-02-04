@@ -171,11 +171,11 @@ Twitter | https://twitter.com/fastcompany
     
 **22. Stratfor**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.stratfor.com/
+Newsletter | https://lp.stratfor.com/stratfornewsletter
+Twitter | https://twitter.com/stratfor
     
 **23. Geopolitics**
     
