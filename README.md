@@ -179,11 +179,11 @@ Twitter | https://twitter.com/stratfor
     
 **23. Geopolitics**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://thegeopolitics.com/
+Newsletter | https://thegeopolitics.com/
+Twitter | https://twitter.com/geopoliticsmag
     
 **24. La Repubblica**
     
