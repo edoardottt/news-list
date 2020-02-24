@@ -187,11 +187,11 @@ Twitter | https://twitter.com/geopoliticsmag
     
 **24. La Repubblica**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.repubblica.it/
+Newsletter | https://quotidiano.repubblica.it/edicola/profilo/newsletter.jsp?where=newsletterpremium
+Twitter | https://twitter.com/repubblica
     
 **25. Il Corriere della Sera**
     
