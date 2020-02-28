@@ -195,51 +195,51 @@ Twitter | https://twitter.com/repubblica
     
 **25. Il Corriere della Sera**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.corriere.it/
+Newsletter | https://www.corriere.it/newsletter/
+Twitter | https://twitter.com/Corriere
     
 **26. Il Sole 24 Ore**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.ilsole24ore.com/
+Newsletter | http://du.ilsole24ore.com/newsletters/my24.aspx
+Twitter | https://twitter.com/sole24ore
     
 **27. Le Monde (F)**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.lemonde.fr/
+Newsletter | https://www.lemonde.fr/newsletters/
+Twitter | https://twitter.com/lemondefr
     
 **28. País (S)**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://elpais.com/
+Newsletter | https://plus.elpais.com/newsletters/
+Twitter | https://twitter.com/el_pais
     
 **29. Spiegel online (G)**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.spiegel.de
+Newsletter | https://www.spiegel.de/newsletter
+Twitter | https://twitter.com/spiegelonline
     
 **30. PitchBook News**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://pitchbook.com/news
+Newsletter | https://pitchbook.com/subscribe
+Twitter | https://twitter.com/pitchbook
     
 **31. MergerMarket**
     
