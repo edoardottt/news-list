@@ -243,12 +243,12 @@ Twitter | https://twitter.com/pitchbook
     
 **31. MergerMarket**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.mergermarket.com/
+Newsletter | https://www.mergermarket.com/info/news-subscribe
+Twitter | https://twitter.com/mergermarket
+   
 **32. News List di Mario Sechi**
     
         - Website: 
