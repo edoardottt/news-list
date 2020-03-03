@@ -102,7 +102,7 @@ Twitter | https://twitter.com/nar
 Object | Link
 ------------ | -------------
 Website | https://www.theaustralian.com
-Newsletter | 
+Newsletter | https://www.newsletters.news.com.au/theaustralian
 Twitter | https://twitter.com/australian
     
 **14. The Straits Times (Singapore)**
