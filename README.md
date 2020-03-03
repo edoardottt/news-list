@@ -134,7 +134,6 @@ Twitter | https://twitter.com/techreview
 Object | Link
 ------------ | -------------
 Website | https://thediplomat.com/
-Newsletter | 
 Twitter | https://twitter.com/diplomat_apac
     
 **18. Foreign Affairs**
@@ -251,43 +250,41 @@ Twitter | https://twitter.com/mergermarket
    
 **32. News List di Mario Sechi**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://newslist.it/
     
 **33. Formiche**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://formiche.net/
+Newsletter | https://formiche.net/2016/12/formiche-come-ricevere-la-newsletter-di-formiche-net/
+Twitter | https://twitter.com/formichenews
     
 **34. Bangkok Post (T)**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.bangkokpost.com/
+Newsletter | https://www.bangkokpost.com/epaper/price
+Twitter | https://twitter.com/bangkokpostnews
     
 **35. The Asset (HK)**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.theasset.com/
+Newsletter | https://www.theasset.com/signup
+Twitter | https://twitter.com/theassetmag
     
 **36. HBR Review**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://hbr.org/
+Newsletter | https://hbr.org/email-newsletters
+Twitter | https://twitter.com/harvardbiz
     
 **37. ANSA**
     
