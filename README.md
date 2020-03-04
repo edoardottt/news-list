@@ -288,19 +288,19 @@ Twitter | https://twitter.com/harvardbiz
     
 **37. ANSA**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.ansa.it/
+Newsletter | http://www.ansa.it/sendmail/sendmail.jsp
+Twitter | https://twitter.com/Agenzia_Ansa
+
 **38. McKinsey Quarterly**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.mckinsey.com/quarterly/overview
+Newsletter | https://www.mckinsey.com/user-registration/register
+Twitter | https://twitter.com/mckquarterly
     
 **39. MacroBusiness (Australia)**
     
