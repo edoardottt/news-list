@@ -304,11 +304,11 @@ Twitter | https://twitter.com/mckquarterly
     
 **39. MacroBusiness (Australia)**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.macrobusiness.com.au/
+Newsletter | https://www.macrobusiness.com.au/product
+Twitter | https://twitter.com/macro_business
     
 **40. CB Insights**
     
