@@ -312,11 +312,11 @@ Twitter | https://twitter.com/macro_business
     
 **40. CB Insights**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.cbinsights.com/
+Newsletter | https://www.cbinsights.com/newsletter
+Twitter | https://twitter.com/cbinsights
     
 **41. TrendWatching**
     
