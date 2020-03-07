@@ -320,11 +320,11 @@ Twitter | https://twitter.com/cbinsights
     
 **41. TrendWatching**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://trendwatching.com/
+Newsletter | https://info.trendwatching.com/subscribe
+Twitter | https://twitter.com/trendwatching
     
 **42. Axios**
     
