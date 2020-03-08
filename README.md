@@ -328,11 +328,11 @@ Twitter | https://twitter.com/trendwatching
     
 **42. Axios**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.axios.com/
+Newsletter | https://www.axios.com/newsletters
+Twitter | https://twitter.com/axios
     
 **43. Project Syndicate**
     
