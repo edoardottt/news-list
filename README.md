@@ -336,12 +336,12 @@ Twitter | https://twitter.com/axios
     
 **43. Project Syndicate**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.project-syndicate.org/
+Newsletter | https://www.project-syndicate.org/order/subscription
+Twitter | https://twitter.com/prosyn
+
 **44. FinanceAsia Daily News**
     
         - Website: 
