@@ -1,5 +1,5 @@
 # geo-political-news
-My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Politics News.🌍
+My personal list of Newsletter/Newspaper to be always informed on Tech/Geo/Economics/Politics News.🌍
 
 **1. Financial Times**
 
