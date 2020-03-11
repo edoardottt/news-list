@@ -344,20 +344,20 @@ Twitter | https://twitter.com/prosyn
 
 **44. FinanceAsia Daily News**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.financeasia.com/
+Newsletter | https://www.financeasia.com/newsletters
+Twitter | https://twitter.com/financeasia
+
 **45. Brookings**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.brookings.edu/
+Newsletter | https://www.brookings.edu/newsletters/
+Twitter | https://twitter.com/brookingsinst
+
 **46. Linkiesta**
     
         - Website: 
