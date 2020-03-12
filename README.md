@@ -360,12 +360,12 @@ Twitter | https://twitter.com/brookingsinst
 
 **46. Linkiesta**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.linkiesta.it/it/
+Newsletter | https://www.linkiesta.it/it/newsletter/
+Twitter | https://twitter.com/Linkiesta
+
 **47. ISPI**
     
         - Website: 
