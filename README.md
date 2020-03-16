@@ -368,11 +368,11 @@ Twitter | https://twitter.com/Linkiesta
 
 **47. ISPI**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.ispionline.it/
+Newsletter | https://www.ispionline.it/
+Twitter | https://twitter.com/ispionline
     
 **48. ITIF**
     
