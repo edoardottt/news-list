@@ -376,11 +376,11 @@ Twitter | https://twitter.com/ispionline
     
 **48. ITIF**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://itif.org/
+Newsletter | https://itif.org/get-our-newsletter
+Twitter | https://twitter.com/itifdc
     
 **49. Limes**
     
