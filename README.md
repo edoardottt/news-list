@@ -384,11 +384,11 @@ Twitter | https://twitter.com/itifdc
     
 **49. Limes**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.limesonline.com/
+Newsletter | https://www.limesonline.com/la-newsletter-di-limes
+Twitter | https://twitter.com/limesonline
     
 **50. Fung Business Intelligence**
     
