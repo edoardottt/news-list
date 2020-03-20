@@ -392,11 +392,11 @@ Twitter | https://twitter.com/limesonline
     
 **50. Fung Business Intelligence**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.fbicgroup.com/
+Newsletter | https://www.fbicgroup.com/?q=contact
+Twitter | https://twitter.com/fbicgroup
     
 **51. Economic Policy Institute**
     
