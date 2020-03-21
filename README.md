@@ -400,11 +400,11 @@ Twitter | https://twitter.com/fbicgroup
     
 **51. Economic Policy Institute**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.epi.org/
+Newsletter | https://www.epi.org/ (on the same page -> subscribe)
+Twitter | https://twitter.com/economicpolicy
     
 **52. STAT Morning Rounds**
     
