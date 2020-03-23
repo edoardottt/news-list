@@ -408,11 +408,11 @@ Twitter | https://twitter.com/economicpolicy
     
 **52. STAT Morning Rounds**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.statnews.com/category/the-regulars/morning-rounds/
+Newsletter | https://www.statnews.com/signup/morning-rounds/
+Twitter | https://twitter.com/statnews
     
 **53. Asia Society**
     
