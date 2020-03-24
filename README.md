@@ -254,15 +254,7 @@ Object | Link
 ------------ | -------------
 Website | https://newslist.it/
     
-**33. Formiche**
-    
-Object | Link
------------- | -------------
-Website | https://formiche.net/
-Newsletter | https://formiche.net/2016/12/formiche-come-ricevere-la-newsletter-di-formiche-net/
-Twitter | https://twitter.com/formichenews
-    
-**34. Bangkok Post (T)**
+**33. Bangkok Post (T)**
     
 Object | Link
 ------------ | -------------
@@ -270,7 +262,7 @@ Website | https://www.bangkokpost.com/
 Newsletter | https://www.bangkokpost.com/epaper/price
 Twitter | https://twitter.com/bangkokpostnews
     
-**35. The Asset (HK)**
+**34. The Asset (HK)**
     
 Object | Link
 ------------ | -------------
@@ -278,7 +270,7 @@ Website | https://www.theasset.com/
 Newsletter | https://www.theasset.com/signup
 Twitter | https://twitter.com/theassetmag
     
-**36. HBR Review**
+**35. HBR Review**
     
 Object | Link
 ------------ | -------------
@@ -286,7 +278,7 @@ Website | https://hbr.org/
 Newsletter | https://hbr.org/email-newsletters
 Twitter | https://twitter.com/harvardbiz
     
-**37. ANSA**
+**36. ANSA**
     
 Object | Link
 ------------ | -------------
@@ -294,7 +286,7 @@ Website | https://www.ansa.it/
 Newsletter | http://www.ansa.it/sendmail/sendmail.jsp
 Twitter | https://twitter.com/Agenzia_Ansa
 
-**38. McKinsey Quarterly**
+**37. McKinsey Quarterly**
     
 Object | Link
 ------------ | -------------
@@ -302,7 +294,7 @@ Website | https://www.mckinsey.com/quarterly/overview
 Newsletter | https://www.mckinsey.com/user-registration/register
 Twitter | https://twitter.com/mckquarterly
     
-**39. MacroBusiness (Australia)**
+**38. MacroBusiness (Australia)**
     
 Object | Link
 ------------ | -------------
@@ -310,7 +302,7 @@ Website | https://www.macrobusiness.com.au/
 Newsletter | https://www.macrobusiness.com.au/product
 Twitter | https://twitter.com/macro_business
     
-**40. CB Insights**
+**39. CB Insights**
     
 Object | Link
 ------------ | -------------
@@ -318,7 +310,7 @@ Website | https://www.cbinsights.com/
 Newsletter | https://www.cbinsights.com/newsletter
 Twitter | https://twitter.com/cbinsights
     
-**41. TrendWatching**
+**40. TrendWatching**
     
 Object | Link
 ------------ | -------------
@@ -326,7 +318,7 @@ Website | https://trendwatching.com/
 Newsletter | https://info.trendwatching.com/subscribe
 Twitter | https://twitter.com/trendwatching
     
-**42. Axios**
+**41. Axios**
     
 Object | Link
 ------------ | -------------
@@ -334,7 +326,7 @@ Website | https://www.axios.com/
 Newsletter | https://www.axios.com/newsletters
 Twitter | https://twitter.com/axios
     
-**43. Project Syndicate**
+**42. Project Syndicate**
     
 Object | Link
 ------------ | -------------
@@ -342,7 +334,7 @@ Website | https://www.project-syndicate.org/
 Newsletter | https://www.project-syndicate.org/order/subscription
 Twitter | https://twitter.com/prosyn
 
-**44. FinanceAsia Daily News**
+**43. FinanceAsia Daily News**
     
 Object | Link
 ------------ | -------------
@@ -350,7 +342,7 @@ Website | https://www.financeasia.com/
 Newsletter | https://www.financeasia.com/newsletters
 Twitter | https://twitter.com/financeasia
 
-**45. Brookings**
+**44. Brookings**
     
 Object | Link
 ------------ | -------------
@@ -358,7 +350,7 @@ Website | https://www.brookings.edu/
 Newsletter | https://www.brookings.edu/newsletters/
 Twitter | https://twitter.com/brookingsinst
 
-**46. Linkiesta**
+**45. Linkiesta**
     
 Object | Link
 ------------ | -------------
@@ -366,7 +358,7 @@ Website | https://www.linkiesta.it/it/
 Newsletter | https://www.linkiesta.it/it/newsletter/
 Twitter | https://twitter.com/Linkiesta
 
-**47. ISPI**
+**46. ISPI**
     
 Object | Link
 ------------ | -------------
@@ -374,7 +366,7 @@ Website | https://www.ispionline.it/
 Newsletter | https://www.ispionline.it/
 Twitter | https://twitter.com/ispionline
     
-**48. ITIF**
+**47. ITIF**
     
 Object | Link
 ------------ | -------------
@@ -382,7 +374,7 @@ Website | https://itif.org/
 Newsletter | https://itif.org/get-our-newsletter
 Twitter | https://twitter.com/itifdc
     
-**49. Limes**
+**48. Limes**
     
 Object | Link
 ------------ | -------------
@@ -390,7 +382,7 @@ Website | https://www.limesonline.com/
 Newsletter | https://www.limesonline.com/la-newsletter-di-limes
 Twitter | https://twitter.com/limesonline
     
-**50. Fung Business Intelligence**
+**49. Fung Business Intelligence**
     
 Object | Link
 ------------ | -------------
@@ -398,7 +390,7 @@ Website | https://www.fbicgroup.com/
 Newsletter | https://www.fbicgroup.com/?q=contact
 Twitter | https://twitter.com/fbicgroup
     
-**51. Economic Policy Institute**
+**50. Economic Policy Institute**
     
 Object | Link
 ------------ | -------------
@@ -406,7 +398,7 @@ Website | https://www.epi.org/
 Newsletter | https://www.epi.org/ (on the same page -> subscribe)
 Twitter | https://twitter.com/economicpolicy
     
-**52. STAT Morning Rounds**
+**51. STAT Morning Rounds**
     
 Object | Link
 ------------ | -------------
@@ -414,7 +406,7 @@ Website | https://www.statnews.com/category/the-regulars/morning-rounds/
 Newsletter | https://www.statnews.com/signup/morning-rounds/
 Twitter | https://twitter.com/statnews
     
-**53. Asia Society**
+**52. Asia Society**
     
         - Website: 
     
@@ -422,7 +414,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**54. HBS Bulletin**
+**53. HBS Bulletin**
     
         - Website: 
     
@@ -430,7 +422,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**55. Ozy Presidential Brief**
+**54. Ozy Presidential Brief**
     
         - Website: 
     
@@ -438,7 +430,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**56. Forbes**
+**55. Forbes**
     
         - Website: 
     
@@ -446,7 +438,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**57. The National Interest**
+**56. The National Interest**
     
         - Website: 
     
@@ -454,7 +446,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**58. Istituto Affari Internazionali**
+**57. Istituto Affari Internazionali**
     
         - Website: 
     
@@ -462,7 +454,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**59. Private Equity International**
+**58. Private Equity International**
     
         - Website: 
     
@@ -470,7 +462,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**60. Coconuts**
+**59. Coconuts**
     
         - Website: 
     
@@ -478,7 +470,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**61. Politico**
+**60. Politico**
     
         - Website: 
     
@@ -486,7 +478,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**62. China Money Network**
+**61. China Money Network**
     
         - Website: 
     
@@ -494,7 +486,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**63. The Hill**
+**62. The Hill**
     
         - Website: 
     
@@ -502,7 +494,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**64. Atlantic Council**
+**63. Atlantic Council**
     
         - Website: 
     
@@ -510,7 +502,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**65. LobeLog**
+**64. LobeLog**
     
         - Website: 
     
@@ -518,7 +510,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**66. The Belfer Center for Science and Int. Affairs**
+**65. The Belfer Center for Science and Int. Affairs**
     
         - Website: 
     
@@ -526,7 +518,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**67. Eurasia Review Newsletter**
+**66. Eurasia Review Newsletter**
     
         - Website: 
     
@@ -534,7 +526,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**68. VentureSource**
+**67. VentureSource**
     
         - Website: 
     
@@ -542,7 +534,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**69. IBT Newsletter**
+**68. IBT Newsletter**
     
         - Website: 
     
@@ -550,7 +542,7 @@ Twitter | https://twitter.com/statnews
         
         - Twitter: 
     
-**70. AsianInvestor**
+**69. AsianInvestor**
     
         - Website: 
     
