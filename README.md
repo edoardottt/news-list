@@ -408,11 +408,11 @@ Twitter | https://twitter.com/statnews
     
 **52. Asia Society**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://asiasociety.org/
+Newsletter | https://asiasociety.org/policy-institute/subscribe-our-newsletter
+Twitter | https://twitter.com/asiasociety
     
 **53. HBS Bulletin**
     
