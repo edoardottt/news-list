@@ -416,11 +416,10 @@ Twitter | https://twitter.com/asiasociety
     
 **53. HBS Bulletin**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.alumni.hbs.edu/bulletin/Pages/default.aspx
+Twitter | https://twitter.com/hbsalumni
     
 **54. Ozy Presidential Brief**
     
