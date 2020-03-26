@@ -423,11 +423,11 @@ Twitter | https://twitter.com/hbsalumni
     
 **54. Ozy Presidential Brief**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.ozy.com/presidential-daily-brief/
+Newsletter | https://www.ozy.com/presidential-daily-brief/ (on the same page -> Sign up)
+Twitter | https://twitter.com/ozy
     
 **55. Forbes**
     
