@@ -471,11 +471,11 @@ Twitter | https://twitter.com/coconuts
     
 **60. Politico**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.politico.com/
+Newsletter | https://www.politico.com/newsletters
+Twitter | https://twitter.com/politico
     
 **61. China Money Network**
     
