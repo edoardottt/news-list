@@ -431,11 +431,11 @@ Twitter | https://twitter.com/ozy
     
 **55. Forbes**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.forbes.com
+Newsletter | https://newsletters.editorial.forbes.com/
+Twitter | https://twitter.com/forbes
     
 **56. The National Interest**
     
