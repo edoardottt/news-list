@@ -455,11 +455,11 @@ Twitter | https://twitter.com/IAIonline
     
 **58. Private Equity International**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.privateequityinternational.com/
+Newsletter | https://www.privateequityinternational.com/subscription-pricing/
+Twitter | https://twitter.com/pei_news
     
 **59. Coconuts**
     
