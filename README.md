@@ -439,11 +439,11 @@ Twitter | https://twitter.com/forbes
     
 **56. The National Interest**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://nationalinterest.org/
+Newsletter | https://nationalinterest.org/ (Bottom of the page)
+Twitter | https://twitter.com/thenatlinterest
     
 **57. Istituto Affari Internazionali**
     
