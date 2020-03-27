@@ -463,11 +463,11 @@ Twitter | https://twitter.com/pei_news
     
 **59. Coconuts**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://coconuts.co/
+Newsletter | https://coconuts.co/newsletters/
+Twitter | https://twitter.com/coconuts
     
 **60. Politico**
     
