@@ -447,11 +447,11 @@ Twitter | https://twitter.com/thenatlinterest
     
 **57. Istituto Affari Internazionali**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.iai.it
+Newsletter | https://www.iai.it/it/sala-stampa/newsletter
+Twitter | https://twitter.com/IAIonline
     
 **58. Private Equity International**
     
