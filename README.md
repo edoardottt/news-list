@@ -479,11 +479,11 @@ Twitter | https://twitter.com/politico
     
 **61. China Money Network**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.chinamoneynetwork.com/
+Newsletter | https://www.chinamoneynetwork.com/subscribe
+Twitter | https://twitter.com/chinamoneynet
     
 **62. The Hill**
     
