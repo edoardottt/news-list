@@ -487,11 +487,11 @@ Twitter | https://twitter.com/chinamoneynet
     
 **62. The Hill**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://thehill.com/
+Newsletter | https://thehill.com/subscribe
+Twitter | https://twitter.com/thehill
     
 **63. Atlantic Council**
     
