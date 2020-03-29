@@ -495,11 +495,11 @@ Twitter | https://twitter.com/thehill
     
 **63. Atlantic Council**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.atlanticcouncil.org/
+Newsletter | https://www.atlanticcouncil.org/sign-up/
+Twitter | https://twitter.com/atlanticcouncil
     
 **64. LobeLog**
     
