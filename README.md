@@ -503,11 +503,11 @@ Twitter | https://twitter.com/atlanticcouncil
     
 **64. LobeLog**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://lobelog.com/
+Newsletter | https://lobelog.com/ (top of the page)
+Twitter | https://twitter.com/lobelog
     
 **65. The Belfer Center for Science and Int. Affairs**
     
