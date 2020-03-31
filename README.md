@@ -516,14 +516,14 @@ Object | Link
 Website | https://www.belfercenter.org/
 Newsletter | https://www.belfercenter.org/research/publication-type/newsletters (bottom of the page)
 Twitter | https://twitter.com/belfercenter
-
-**66. Eurasia Review Newsletter**
     
-        - Website: 
+**66. Eurasia Review**
     
-        - Newsletter:
-        
-        - Twitter: 
+Object | Link
+------------ | -------------
+Website | https://www.eurasiareview.com/
+Newsletter | https://www.eurasiareview.com/ (middle of the page)
+Twitter | https://twitter.com/eurasiareview
     
 **67. VentureSource**
     
