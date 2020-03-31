@@ -511,12 +511,12 @@ Twitter | https://twitter.com/lobelog
     
 **65. The Belfer Center for Science and Int. Affairs**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.belfercenter.org/
+Newsletter | https://www.belfercenter.org/research/publication-type/newsletters (bottom of the page)
+Twitter | https://twitter.com/belfercenter
+
 **66. Eurasia Review Newsletter**
     
         - Website: 
