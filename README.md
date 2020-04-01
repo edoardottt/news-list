@@ -524,24 +524,16 @@ Object | Link
 Website | https://www.eurasiareview.com/
 Newsletter | https://www.eurasiareview.com/ (middle of the page)
 Twitter | https://twitter.com/eurasiareview
+
+**67. IBT Newsletter**
     
-**67. VentureSource**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
-**68. IBT Newsletter**
-    
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
-**69. AsianInvestor**
+Object | Link
+------------ | -------------
+Website | https://www.ibtimes.com/
+Newsletter | https://www.ibtimes.com/newsletter
+Twitter | https://twitter.com/ibtimes
+
+**68. AsianInvestor**
     
         - Website: 
     
