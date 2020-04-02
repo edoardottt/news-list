@@ -535,12 +535,12 @@ Twitter | https://twitter.com/ibtimes
 
 **68. AsianInvestor**
     
-        - Website: 
-    
-        - Newsletter:
-        
-        - Twitter: 
-    
+Object | Link
+------------ | -------------
+Website | https://www.asianinvestor.net/
+Newsletter | https://www.asianinvestor.net/newsletter
+Twitter | https://twitter.com/asianinvestor
+
 
 --------------------------
 If you liked it drop a :star:
