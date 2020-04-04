@@ -541,6 +541,15 @@ Website | https://www.asianinvestor.net/
 Newsletter | https://www.asianinvestor.net/newsletter
 Twitter | https://twitter.com/asianinvestor
 
+**69. CyberSecurity Hub**
+    
+Object | Link
+------------ | -------------
+Website | https://www.cshub.com/
+Newsletter | https://www.cshub.com/ (middle of the page)
+Twitter | https://twitter.com/thecybersechub
+
+
 
 --------------------------
 If you liked it drop a :star:
