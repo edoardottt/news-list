@@ -549,6 +549,13 @@ Website | https://www.cshub.com/
 Newsletter | https://www.cshub.com/ (middle of the page)
 Twitter | https://twitter.com/thecybersechub
 
+**. The Hacker News**
+    
+Object | Link
+------------ | -------------
+Website | https://thehackernews.com/
+Newsletter | https://thehackernews.com/#email-outer
+Twitter | https://twitter.com/thehackersnews
 
 
 --------------------------
