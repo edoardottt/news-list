@@ -549,7 +549,7 @@ Website | https://www.cshub.com/
 Newsletter | https://www.cshub.com/ (middle of the page)
 Twitter | https://twitter.com/thecybersechub
 
-**. The Hacker News**
+**70. The Hacker News**
     
 Object | Link
 ------------ | -------------
@@ -557,6 +557,13 @@ Website | https://thehackernews.com/
 Newsletter | https://thehackernews.com/#email-outer
 Twitter | https://twitter.com/thehackersnews
 
+**71. Il Post**
+    
+Object | Link
+------------ | -------------
+Website | https://www.ilpost.it/
+Newsletter | https://www.ilpost.it/newsletter-post-abbonati-iscrizione/
+Twitter | https://twitter.com/ilpost
 
 --------------------------
 If you liked it drop a :star:
