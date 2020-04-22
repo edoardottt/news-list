@@ -15,7 +15,7 @@ Object | Link
 ------------ | -------------
 Website | https://www.nytimes.com/
 Newsletter | https://www.nytimes.com/newsletters
-Twitter | https://twitter.com/nytimess
+Twitter | https://twitter.com/nytimes
     
 **3. Washington Post**
 
