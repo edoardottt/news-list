@@ -483,7 +483,7 @@ Object | Link
 ------------ | -------------
 Website | https://www.chinamoneynetwork.com/
 Newsletter | https://www.chinamoneynetwork.com/subscribe
-Twitter | https://twitter.com/chinamoneynet
+Twitter | https://twitter.com/chinamoneypod
     
 **62. The Hill**
     
