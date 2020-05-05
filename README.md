@@ -565,6 +565,14 @@ Website | https://www.ilpost.it/
 Newsletter | https://www.ilpost.it/newsletter-post-abbonati-iscrizione/
 Twitter | https://twitter.com/ilpost
 
+**71. The Sun**
+    
+Object | Link
+------------ | -------------
+Website | https://www.thesun.co.uk/
+Newsletter | http://link.thesun.co.uk/join/5pl/signup
+Twitter | https://twitter.com/thesun
+
 --------------------------
 If you liked it drop a :star:
 --------------------------
