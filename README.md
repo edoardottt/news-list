@@ -573,6 +573,14 @@ Website | https://www.thesun.co.uk/
 Newsletter | http://link.thesun.co.uk/join/5pl/signup
 Twitter | https://twitter.com/thesun
 
+**72. Infosecurity Magazine**
+    
+Object | Link
+------------ | -------------
+Website | https://www.infosecurity-magazine.com/
+Newsletter | https://www.infosecurity-magazine.com/subscription/
+Twitter | https://twitter.com/infosecuritymag
+
 --------------------------
 If you liked it drop a :star:
 --------------------------
@@ -580,4 +588,4 @@ If you liked it drop a :star:
 https://www.edoardoottavianelli.it for contact me.
 
 
-      Edoardo Ottavianelli ©
+                                                                Edoardo Ottavianelli ©
