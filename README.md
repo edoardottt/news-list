@@ -581,6 +581,14 @@ Website | https://www.infosecurity-magazine.com/
 Newsletter | https://www.infosecurity-magazine.com/subscription/
 Twitter | https://twitter.com/infosecuritymag
 
+**73. ThreatPost**
+    
+Object | Link
+------------ | -------------
+Website | https://threatpost.com/
+Newsletter | https://threatpost.com/newsletter-sign/
+Twitter | https://twitter.com/threatpost
+
 --------------------------
 If you liked it drop a :star:
 --------------------------
