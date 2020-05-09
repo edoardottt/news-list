@@ -589,6 +589,15 @@ Website | https://threatpost.com/
 Newsletter | https://threatpost.com/newsletter-sign/
 Twitter | https://twitter.com/threatpost
 
+
+**74. SC Magazine**
+    
+Object | Link
+------------ | -------------
+Website | https://www.scmagazine.com/
+Newsletter | https://cyberrisk.dragonforms.com/loading.do?omedasite=SCM_newsletter
+Twitter | https://twitter.com/scmagazine
+
 --------------------------
 If you liked it drop a :star:
 --------------------------
