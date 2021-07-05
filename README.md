@@ -599,11 +599,11 @@ Website | https://www.scmagazine.com/
 Newsletter | https://cyberrisk.dragonforms.com/loading.do?omedasite=SCM_newsletter
 Twitter | https://twitter.com/scmagazine
 
---------------------------
+
 If you liked it drop a :star:
---------------------------
+--------
 
 https://www.edoardoottavianelli.it for contact me.
 
 
-                                                                Edoardo Ottavianelli ©
+                                                                Edoardo Ottavianelli
