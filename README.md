@@ -1,5 +1,3 @@
-# news-list
-
 ## My personal list of Newsletter/Newspaper to be always updated on Tech/Geo/Economics/Politics News.🌍
 
 **1. Financial Times**
