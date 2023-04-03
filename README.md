@@ -1,4 +1,6 @@
-### My personal list of Newsletter/Newspaper to be always updated on Tech/Geo/Economics/Politics News.🌍
+### This repo hasn't been updated in years and won't be. Time passed and there are many other valuable sources not included in the list (twitter, blog posts, newsletters etc...) and items that I don't read anymore for various reasons.
+
+#### My personal list of Newsletter/Newspaper to be always updated on Tech/Geo/Economics/Politics News.🌍
 
 **1. Financial Times**
 
